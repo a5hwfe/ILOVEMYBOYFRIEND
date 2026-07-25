@@ -7,7 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?
   <div align="center">
 
-#  $\color{black}{\text{Եһᥱᥡ sᥲᥡ mᥡ һᥙᥒgᥱr's ᥲ ⍴r᥆ᑲᥣᥱm .}}$
+</br>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Italic&size=22&duration=3500&pause=1200&color=417868&center=true&vCenter=true&width=450&height=30&lines=%22they+say+my+hunger+is+a+problem.%22" />
+</p>
 
 </div>
 
