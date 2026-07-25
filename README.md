@@ -11,4 +11,5 @@
 
 </div>
 
-hi lol , still a wip h
+<p align="center"> ઢׁ͟ჩׅᥱ ㅤㅤㅤჩׅᥱꭉ᪲͟͡ㅤ♡ㅤㅤㅤㅤㅤㅤ𝖋ᥱᥱlㅤㅤ 𝖋ꭉ᪲͟͡ᥱᥱㅤㅤ ȶׅⱺ̫᪲͡ㅤㅤ  ɕ͟×ჩׅ
+<p align="center"> STILL WIP GOTTA COLOR
