@@ -7,6 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?
   <div align="center">
 
-#  <span style="color: red;"> wip h ehen </span>
+#  $\color{black}{\text{p iTo}}$
 
 </div>
