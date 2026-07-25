@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?
   <div align="center">
 
-#  $\color{black}{\text{p iTo}}$
+#  $\color{black}{\text{Եһᥱᥡ sᥲᥡ mᥡ һᥙᥒgᥱr's ᥲ ⍴r᥆ᑲᥣᥱm .}}$
 
 </div>
+
+hi lol , still a wip h
