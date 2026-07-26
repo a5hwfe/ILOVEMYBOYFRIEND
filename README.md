@@ -16,4 +16,4 @@
 </div>
 
 <p align="center"> ઢׁ͟ჩׅᥱ ㅤㅤㅤჩׅᥱꭉ᪲͟͡ㅤ♡ㅤㅤㅤㅤㅤㅤ𝖋ᥱᥱlㅤㅤ 𝖋ꭉ᪲͟͡ᥱᥱㅤㅤ ȶׅⱺ̫᪲͡ㅤㅤ  ɕ͟×ჩׅ
-<p align="center"> <a href="https://https://cute5y.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=25&duration=1&pause=5000&color=black&center=true&vCenter=true&width=200&height=30&lines=atabook<WIP " alt="Typing SVG" /></a> 
+<p align="center"> <a href="https://https://cute5y.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=25&duration=1&pause=5000&color=black&center=true&vCenter=true&width=200&height=30&lines=atabook<WIP " alt="Typing SVG" /></a> 
