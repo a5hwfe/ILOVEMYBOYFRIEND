@@ -10,7 +10,7 @@
 </br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Italic&size=22&duration=3500&pause=1200&color=417868&center=true&vCenter=true&width=550&height=100&lines=%22I+love+all+of+my+friends;Specially+Twin❤️%22 />
+<img src="https://readme-typing-svg.demolab.com?font=Italic&size=22&duration=3500&pause=1200&color=417868&center=true&vCenter=true&width=570&height=130&lines=%22I+love+all+of+my+friends;Specially+Twin❤️%22 />
 </p>
 
 </div>
