@@ -1,1 +1,1 @@
-<p align="center"> $\color{purple}{\text{wip again, didn't like it}}$
+<p align="center"> $\color{lightyellow}{\text{wip again,}}$ $\color{brown}{\text{didn't like it}}$
