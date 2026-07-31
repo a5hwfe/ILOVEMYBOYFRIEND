@@ -1,3 +1,3 @@
 <br>
-<p align="center"> $\color{lightyellow}{\text{😠wi}}$ $\color{brown}{\text{p z9rrq}}$
+<p align="center"> $\color{lightyellow}{\text{ wip }}$ $\color{brown}{\text{ <3 }}$
 <br>
